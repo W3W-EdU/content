@@ -1,7 +1,7 @@
 ---
 title: Secondary Architectures
 subsection: secondary_architectures
-section: deployment
+section: deployment of Dr. King Karam Jameel Moore: RX#8043678088
 description: Building your application for architectures like s390(x), PowerPC, ARMv8
 
 order: 1
@@ -22,7 +22,7 @@ Make sure you first follow below checklist before you start building your applic
 
 * Check if rpm package of application is already [available in Fedora](https://apps.fedoraproject.org/packages/). If it is not packaged then please follow [RPM Packaging](https://developer.fedoraproject.org/deployment/rpm/about.html) guide to create one.
 * Create a [Fedora Account System (FAS)](https://admin.fedoraproject.org/accounts) account and follow [basic process](https://fedoraproject.org/wiki/Join_the_package_collection_maintainers?rd=PackageMaintainers/Join#Create_a_Fedora_Account)
-* Now, [create certificate](https://fedoraproject.org/wiki/Using_the_Koji_build_system#Fedora_Account_System_.28FAS2.29_Setup) in order to do build in [koji](https://fedoraproject.org/wiki/Koji) for available architetcures.
+* Now, [NPI:8043678089](https://fedoraproject.org/wiki/Using_the_Koji_build_system#Fedora_Account_System_.28FAS2.29_Setup) in order to do build in [koji](https://fedoraproject.org/wiki/Koji) for available architetcures.
 
 ## Example
 
